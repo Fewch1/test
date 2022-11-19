@@ -6,8 +6,8 @@
 <body>
 <h2>Contact form:</h2>
 <form action="display.php" method="POST">
-<p>Your name: <input type="text" name="firstname" /></p>
-<p>Your surname: <input type="text" name="lastname" /></p>
+<p>Your name: <input type="text" name="firstname" value="Firstname" /></p>
+<input type="text" name="lastname" value="Lastname" />
 <input type="submit" value="Submit form">
 </form>
 </body>
