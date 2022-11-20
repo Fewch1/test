@@ -5,7 +5,7 @@ $surname = $_POST["lastname"];
 $usercity = $_POST["user_city"];
 $number = $_POST["number"];
 $email = $_POST["email"];
-$sex = $_POST["sex"];
+$rad = $_POST["rad"];
 $date = $_POST["date"];
 $file = fopen("text.txt","w") or die("Unable to open file!");
 
@@ -16,7 +16,7 @@ fwrite($file, $surname);
 fwrite($file, $usercity);
 fwrite($file, $number);
 fwrite($file, $email);
-fwrite($file, $sex);
+fwrite($file, $rad);
 fwrite($file, $date);
 
 fclose($file1);
