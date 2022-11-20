@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 </head>
 <body>
-<h2>Contact form:</h2>
+<h2><b>Contact form:</b></h2>
 <form action="display.php" method="POST">
 
 <p>Your name: <input type="text" name="firstname" value="Firstname" /> <input type="text" name="lastname" value="Lastname" /> </p>
