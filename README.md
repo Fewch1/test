@@ -1,1 +1,1 @@
-https://testteal.azurewebsites.net/
+https://testteal.azurewebsites.net
