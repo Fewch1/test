@@ -9,7 +9,7 @@ $rad = $_POST["rad"];
 $date = $_POST["date"];
 $file = fopen("text.txt","w") or die("Unable to open file!");
 
-echo "Hello, <b>".$name . " " . $surname . " " . "from " . $usercity . "</b> .";
+echo "We will contact you";
 
 fwrite($file, $name);
 fwrite($file, $surname);
