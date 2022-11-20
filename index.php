@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Muchtar.com</title>
+<title>NoTitle</title>
 <meta charset="utf-8">
 <style>
 body{
@@ -16,9 +16,9 @@ body{
 <p>Your number: <input type="number" name="number" value="+421xxxxxxxxx" /> </p>
 <p>Your Email: <input type="email" name="email" value="example@gmail.com"/></p>  
 
-<input id="radio_1" type="radio" name="sex" value="Male" />
+<input id="radio_1" type="radio" name="rad" value="Male" />
 <label for="radio_1">Muž</label><br />
-<input id="radio_2" type="radio" name="sex" value="Female" />
+<input id="radio_2" type="radio" name="rad" value="Female" />
 <label for="radio_2">Žena</label><br />
 
 <p>You are from:<select name="user_city">
