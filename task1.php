@@ -2,6 +2,11 @@
 <head>
 <title>Muchtar.com</title>
 <meta charset="utf-8">
+<style>
+body{
+  background-image: url("image.jpg");
+}
+</style>
 </head>
 <body>
 <h2><b>Contact form:</b></h2>
