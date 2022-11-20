@@ -2,10 +2,15 @@
 <head>
 <title>Muchtar.com</title>
 <meta charset="utf-8">
+<style>
+body{
+  background-image: url("image.jpg");
+}
+</style>
 </head>
 <body>
 <h2><b>Contact form:</b></h2>
-<form action="display.php" method="POST">
+<form action="second.php" method="POST">
 
 <p>Your name: <input type="text" name="firstname" value="Firstname" /> <input type="text" name="lastname" value="Lastname" /> </p>
 <p>Your number: <input type="number" name="number" value="+421xxxxxxxxx" /> </p>
