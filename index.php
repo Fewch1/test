@@ -13,11 +13,6 @@ body{
 <h2 align="center"><b>Music Box</b></h2>
 <form action="second_2.php" method="POST"> 
 
-//<p align="center"><input id="radio_1" type="radio" name="mode" value="first" />
-  //<label for="radio_1">Songs</label><br />
-  //<input id="radio_2" type="radio" name="mode" value="second" />
-  //<label for="radio_2">With Remote</label><br /></p>
-
 <p align="center">Choose a song:<select name="id">
   <optgroup label="Games">
     <option value="1">Mario</option>
