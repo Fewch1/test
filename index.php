@@ -18,15 +18,15 @@ body{
   <input id="radio_2" type="radio" name="mode" value="second" />
   <label for="radio_2">With Remote</label><br /></p>
 
-<p align="center">Choose a song:<select name="song">
+<p align="center">Choose a song:<select name="id">
   <optgroup label="Games">
-    <option value="Mario">Mario</option>
+    <option value="1">Mario</option>
   </optgroup>
   <optgroup label="Films">
-    <option value="Star_Wars">Star Wars</option>
+    <option value="2">Star Wars</option>
   </optgroup>
   <optgroup label="Songs">
-    <option value="New_Year">New Year</option>
+    <option value="3">New Year</option>
   </optgroup>
 </select></p>
   
