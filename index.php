@@ -11,7 +11,7 @@ body{
 </head>
 <body>
 <h2 align="center"><b>Music Box</b></h2>
-<form action="second.php" method="POST"> 
+<form action="second_2.php" method="POST"> 
 
 <p align="center"><input id="radio_1" type="radio" name="mode" value="first" />
   <label for="radio_1">Songs</label><br />
