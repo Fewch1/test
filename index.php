@@ -26,7 +26,6 @@ body{
     <option value="Star_Wars">Star Wars</option>
   </optgroup>
   <optgroup label="Songs">
-    <option value="USSR">USSR</option>
     <option value="New_Year">New Year</option>
   </optgroup>
 </select></p>
